@@ -70,3 +70,7 @@ This script follows the [Event Source Protocol](https://github.com/mividtim/clau
 ## License
 
 MIT
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
